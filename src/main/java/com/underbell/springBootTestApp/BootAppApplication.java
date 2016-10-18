@@ -1,4 +1,4 @@
-package com.underbell.bootApp;
+package com.underbell.springBootTestApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
